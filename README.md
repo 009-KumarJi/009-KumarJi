@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Kumar</h1>
 <h3 align="center">A passionate future developer from India</h3>
 
-🔭 I’m currently working on [MERN Chat App](https://github.com/009-KumarJi/NoviConnect)
+🔭 I’m currently working on Python backend project
 
 🌱 I’m currently learning **MERN Stack Dev**
 
