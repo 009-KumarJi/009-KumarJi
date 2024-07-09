@@ -13,7 +13,7 @@
 
 ⚡ Fun fact: **I think I'm the funniest in the group.**
 
-##### [`Resume`](https://github.com/009-KumarJi/009-KumarJi/resume)
+#### [`Resume`](https://github.com/009-KumarJi/009-KumarJi/resume)
 
 ### Connect with me:
 <p>
