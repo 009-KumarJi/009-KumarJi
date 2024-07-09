@@ -13,6 +13,8 @@
 
 ⚡ Fun fact: **I think I'm the funniest in the group.**
 
+##### [`Resume`](https://github.com/009-KumarJi/009-KumarJi/resume)
+
 ### Connect with me:
 <p>
   <a href="https://twitter.com/kumaarkrishnaaa" target="_blank">
@@ -27,9 +29,7 @@
   <a href="https://www.leetcode.com/krishna-09" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://github.com/009-kumarji/resume" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
+  
 </p>
 
 ### Languages and Tools:
