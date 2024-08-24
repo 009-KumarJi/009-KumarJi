@@ -5,9 +5,7 @@
   <h3>A passionate future developer from India</h3>
 </div>
 
-🔭 I’m currently working on JAVA Skills
-
-🌱 I’m currently learning **SpringBoot Development**
+🌱 I’m currently learning **SpringBoot Development** in my free time.
 
 💻 I'm curretly working as a **Full Stack Web Development Intern** at Envint Global.
 
