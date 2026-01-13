@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning **SpringBoot Development** in my free time.
 
-💻 I'm curretly working as a **Full Stack Web Development Intern** at Envint Global.
+💻 I'm curretly working as a **Associate Software Engineer** at Accenture, India.
 
 📫 How to reach me: **krishnakumar091@yahoo.com**
 
