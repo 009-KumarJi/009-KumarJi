@@ -5,11 +5,11 @@
   <h3>A passionate future developer from India</h3>
 </div>
 
-🌱 I’m currently learning **SpringBoot Development** in my free time.
+🌱 I’m currently learning **Mindflullness** in my free time.
 
 💻 I'm curretly working as a **Associate Software Engineer** at Accenture, India.
 
-📫 How to reach me: **krishnakumar091@yahoo.com**
+📫 How to reach me: **krishna902kumar@gmail.com**
 
 ⚡ Fun fact: **I think I'm the funniest in the group.**
 
