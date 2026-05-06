@@ -68,12 +68,15 @@ krishna = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=009-KumarJi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=009-KumarJi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&cache_seconds=1800" height="165" />
+  <img src="https://streak-stats.demolab.com?user=009-KumarJi&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=009-KumarJi&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+  <img src="https://github-profile-trophy.vercel.app/?username=009-KumarJi&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=009-KumarJi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF4120" width="100%" />
 </div>
 
 ---
